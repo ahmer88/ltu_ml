@@ -1,8 +1,9 @@
 %Date:2020-05-01
 %Author: Muhammad Ahmer
 %Course: Advanced Deep Learning (D7047E)
-%@Luleå University of Technology
+%@LuleÃ¥ University of Technology
 %Calculting theory part for the exercise 2
+%Written in MATLAB R2019a in Windows 10 (SKF)
 %%
 %Vectors
 g = [0 1 0];
